@@ -1,0 +1,15 @@
+Nome: user admin
+Senha: admin
+
+Os dados acima, foram cadastrados no banco de dados e devem ser usados para o primeiro
+acesso ao sistema quando realizar o login.
+
+
+
+
+
+
+Conexão do sistema com o banco de dados:
+
+Para que realize a conexão do sistema com seu banco de dados, deve ser alterado a senha de conexao
+que esta na classe Conexao do sistema.
